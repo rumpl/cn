@@ -1,6 +1,6 @@
 # Chuck Norris jokes
 
-Simple cli client for the [icndb](http://http://www.icndb.com/) database.
+Simple cli client for the [icndb](http://www.icndb.com/) database.
 
 ## Installation
 
