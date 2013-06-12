@@ -8,4 +8,4 @@
  * Licensed under the MIT license.
  */
 
-require('../');
+require('../index');
