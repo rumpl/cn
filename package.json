@@ -2,7 +2,6 @@
   "name": "cn",
   "version": "0.1.1",
   "description": "Chuck Norris jokes whenever you need one",
-  "main": "index.js",
   "main": "bin/cn",
   "bin": {
     "cn": "bin/cn"
@@ -19,6 +18,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "request": "~2.21.0"
+    "request": "~2.21.0",
+    "string": "~1.4.0"
   }
 }
